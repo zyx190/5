@@ -20,9 +20,10 @@ $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
 // Fonts
-// $base-font: source-han-sans-sc, 'Source Han Sans SC', 'Source Han Sans CN', 'Source Han Sans TC', 'Source Han Sans TW', 'Source Han Sans','PingFang SC','Microsoft YaHei','SimHei','Arial','SimSun';
-$base-font: source-han-sans-sc,Source Han Sans SC,Source Han Sans CN,Source Han Sans TC,Source Han Sans TW,Source Han Sans,PingFang SC,Microsoft YaHei,SimHei,Arial,SimSun';
+// $base-font: "Noto Serif","PT Serif",source-han-serif-sc, "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif","Songti SC", SimSon, serif;
+$base-font: Roboto,Noto Sans S Chinese Regular,Helvetica Neue,sans-serif;
 $code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
+$times: "Times New Roman", sans-serif;
 
 // Font sizes
 $base-font-size: 16px;
